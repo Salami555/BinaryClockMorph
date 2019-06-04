@@ -1,0 +1,4 @@
+accessing
+defaultBitSize
+
+	^ 32

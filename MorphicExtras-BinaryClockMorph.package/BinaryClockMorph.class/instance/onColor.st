@@ -1,0 +1,4 @@
+accessing
+onColor
+
+	^ Color white
