@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfBinaryClockMorph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfBinaryClockMorph",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

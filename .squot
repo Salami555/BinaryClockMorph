@@ -1,3 +1,4 @@
 OrderedDictionary {
-	'MorphicExtras-BinaryClockMorph.package' : #SquotCypressCodeSerializer
+	'MorphicExtras-BinaryClockMorph.package' : #SquotCypressCodeSerializer,
+	'BaselineOfBinaryClockMorph.package' : #SquotCypressCodeSerializer
 }
