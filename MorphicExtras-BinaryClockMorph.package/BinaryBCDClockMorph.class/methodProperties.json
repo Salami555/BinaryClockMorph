@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addTimeUnit:" : "ms 6/5/2019 11:09",
+		"hideUnusedBits" : "ms 6/5/2019 11:27",
+		"hours" : "ms 6/5/2019 11:04",
+		"hours:" : "ms 6/5/2019 11:05",
+		"initializeTimeUnits" : "ms 6/5/2019 11:07",
+		"minutes" : "ms 6/5/2019 11:04",
+		"minutes:" : "ms 6/5/2019 11:05",
+		"seconds" : "ms 6/5/2019 11:04",
+		"seconds:" : "ms 6/5/2019 11:05",
+		"showUnusedBits" : "ms 6/5/2019 11:27",
+		"updateTime:" : "ms 6/5/2019 11:10",
+		"updateTimeUnit:for:" : "ms 6/5/2019 11:30" } }

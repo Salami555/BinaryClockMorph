@@ -1,0 +1,16 @@
+{
+	"category" : "MorphicExtras-BinaryClockMorph",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"hours",
+		"minutes",
+		"seconds" ],
+	"name" : "BinaryBCDClockMorph",
+	"pools" : [
+		 ],
+	"super" : "AbstractBinaryClockMorph",
+	"type" : "normal" }
