@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"addTimeUnit:bits:" : "ms 6/5/2019 10:47",
+		"addTimeUnit:bits:" : "ms 6/5/2019 11:09",
 		"hideUnusedBits" : "ms 6/5/2019 10:30",
 		"hideUnusedTimeUnitBitsFor:upTo:" : "ms 6/5/2019 10:30",
 		"hours" : "ms 6/4/2019 11:56",
@@ -15,4 +15,4 @@
 		"showUnusedBits" : "ms 6/5/2019 10:26",
 		"showUnusedTimeUnitBitsFor:" : "ms 6/5/2019 10:18",
 		"updateTime:" : "ms 6/4/2019 13:38",
-		"updateTimeUnit:for:" : "ms 6/4/2019 13:38" } }
+		"updateTimeUnit:for:" : "ms 6/5/2019 11:10" } }
