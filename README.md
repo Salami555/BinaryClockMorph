@@ -1,5 +1,5 @@
 # BinaryClockMorph
-simple binary clock for Morphic (Squeak/Smalltalk)
+Simple binary clocks for the Morphic Framework.
 
 ## Installation with Metacello
 
@@ -10,3 +10,10 @@ Metacello new
 	get;
 	load.
 ```
+
+## Usage
+
+There are two different clocks implemented:
+_BinarySexagesimalClockMorph_ and _BinaryBCDClockMorph_
+
+Create yourself an instance of it via ClockMorphClass `newInHand`
