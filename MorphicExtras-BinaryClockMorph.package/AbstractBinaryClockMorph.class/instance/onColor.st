@@ -1,4 +1,4 @@
-accessing
+constants
 onColor
 
 	^ Color white

@@ -1,4 +1,4 @@
-accessing
+constants
 defaultGap
 
 	^ 8

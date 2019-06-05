@@ -1,4 +1,4 @@
-accessing
+constants
 offColor
 
 	^ Color gray

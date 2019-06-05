@@ -12,5 +12,5 @@
 	"name" : "BinarySexagesimalClockMorph",
 	"pools" : [
 		 ],
-	"super" : "Morph",
+	"super" : "AbstractBinaryClockMorph",
 	"type" : "normal" }

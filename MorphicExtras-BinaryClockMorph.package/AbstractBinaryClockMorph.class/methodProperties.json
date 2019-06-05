@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"defaultBitSize" : "ms 6/5/2019 10:40",
+		"defaultGap" : "ms 6/5/2019 10:40",
+		"defaultPadding" : "ms 6/5/2019 10:40",
+		"hideUnusedBits" : "ms 6/5/2019 10:52",
+		"initialize" : "ms 6/5/2019 10:51",
+		"initializeTimeUnits" : "ms 6/5/2019 10:51",
+		"intoWorld:" : "ms 6/5/2019 10:49",
+		"offColor" : "ms 6/5/2019 10:41",
+		"onColor" : "ms 6/5/2019 10:41",
+		"showUnusedBits" : "ms 6/5/2019 10:52",
+		"startStepping" : "ms 6/5/2019 10:49",
+		"step" : "ms 6/5/2019 10:48",
+		"stepTime" : "ms 6/5/2019 10:49",
+		"updateBit:enabled:" : "ms 6/5/2019 10:49",
+		"updateTime:" : "ms 6/5/2019 10:52" } }

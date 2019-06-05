@@ -1,0 +1,4 @@
+drawing
+hideUnusedBits
+
+	self subclassResponsibility.

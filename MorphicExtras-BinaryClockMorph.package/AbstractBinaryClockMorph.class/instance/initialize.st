@@ -11,9 +11,6 @@ initialize
 		cellInset: self defaultGap;
 		rubberBandCells: true;
 		color: Color veryDarkGray;
-		height: (4 * self defaultBitSize) + (3 * self defaultGap) + (2 * self defaultPadding).
-	self
-		addTimeUnit: #hours;
-		addTimeUnit: #minutes;
-		addTimeUnit: #seconds.
-	self updateTime: Time now.
+		height: (4 * self defaultBitSize) + (3 * self defaultGap) + (2 * self defaultPadding);
+		initializeTimeUnits;
+		updateTime: Time now.
